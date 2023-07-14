@@ -8,6 +8,10 @@
 
 <br/>
 <br/>
+<img src="https://img.shields.io/badge/SSAFY-%2352BBE6.svg?&style=for-the-badge&logo=SAMSUNG&logoColor=black" />
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+
+<br/>
 <br/>
 
 ![lion](https://2.gall-gif.com/hygall/files/attach/images/82/557/552/189/1786b119778bb1ca718047c3a20e7285.gif)
