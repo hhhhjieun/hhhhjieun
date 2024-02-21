@@ -24,6 +24,3 @@
 <br/>
 <br/>
 
-![jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhhhjieun&theme=dracula&show_icons=true)
-
-</div>
